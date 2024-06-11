@@ -1,0 +1,81 @@
+﻿@using Course_History.Models
+
+@model CartItemViewModel
+
+<section id="cart_items">
+	<div class="container">
+		<div class="breadcrumbs">
+			<ol class="breadcrumb">
+				<li><a href="#">Home</a></li>
+				<li class="active">Shopping Cart</li>
+			</ol>
+		</div>
+		<div class="table-responsive cart_info">
+			<table class="table table-condensed">
+				<thead>
+					<tr class="cart_menu">
+						<td class="image">Sản phẩm</td>
+						<td class="description">Tên sản phẩm</td>
+						<td class="price">Giá</td>
+						<td class="quantity">Số lượng</td>
+						<td class="total">Tổng</td>
+						<td></td>
+					</tr>
+				</thead>
+				<tbody>
+					@if (Model.CartItems.Count > 0)
+					{
+
+						@foreach (var item in Model.CartItems)
+						{
+							<tr>
+								<td class="cart_product">
+									<a href=""><img src="~/image/@item.Image" alt="" width="120"></a>
+								</td>
+								<td class="cart_description">
+									<h4><a href="">@item.ProductName</a></h4>
+									<p>@item.ProductName</p>
+								</td>
+								<td class="cart_price">
+									<p>@item.Price</p>
+								</td>
+								<td class="cart_quantity">
+									<div class="cart_quantity_button">
+										<a class="btn btn-default btn-sm" asp-controller="Cart" asp-action="Increase" asp-route-Id ="@item.ProductId" > + </a>
+										@* <input class="cart_quantity_input" type="text" name="quantity" value="1" autocomplete="off" size="2"> *@
+										<input class="cart_quantity_input" type="text" name="quantity" value="@item.Quantity" autocomplete="off" size="2">
+			
+										<a class="btn btn-success btn-sm" asp-controller="Cart" asp-action="Decrease" asp-route-Id="@item.ProductId" > - </a>
+										<a class="btn btn-default btn-sm" asp-controller="Cart" asp-action="Remove" asp-route-Id="@item.ProductId"> Remove </a>
+									</div>
+								</td>
+								<td class="cart_total">
+									<p class="cart_total_price">@Model.CartItems.Where(x => x.ProductId == item.ProductId).Sum(x => x.Quantity * x.Price).ToString()</p>
+								</td>
+								<td class="cart_delete">
+									<a class="cart_quantity_delete" href=""><i class="fa fa-times"></i></a>
+								</td>
+							</tr>
+						}
+						<tr rowspan="6">
+							<td>Tổng tiền thanh toán: @Model.GrandTotal.ToString()</td>
+							<td><a class="btn btn-danger btn-sm" asp-controller="Cart" asp-action="Clear"> Xóa tât cả </a></td>
+							<td><a class="btn btn-danger btn-sm" id="checkout" asp-controller="Checkout" asp-action="Checkout" onclick="showSuccessAlert()"> Thanh toán </a></td>
+						</tr>
+					}
+					else
+					{
+						<h4>Giỏ hàng trống</h4>
+					}
+				</tbody>
+			</table>
+		</div>
+	</div>
+</section>
+@section Scripts {
+	<script>
+		function showSuccessAlert() {
+			alert("Thanh toán thành công!");
+		}
+	</script>
+}

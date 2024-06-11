@@ -1,0 +1,381 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Course_History.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Course_History.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\css\\prettyPhoto.css",
+      "PackagePath": "staticwebassets\\css\\prettyPhoto.css"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\css\\price-range.css",
+      "PackagePath": "staticwebassets\\css\\price-range.css"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\image\\32d24221-93a5-4096-8f8e-763c4dcbd8be_Screenshot 2023-09-19 084008.png",
+      "PackagePath": "staticwebassets\\image\\32d24221-93a5-4096-8f8e-763c4dcbd8be_Screenshot 2023-09-19 084008.png"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\image\\38ed2c6e-b69e-4e6c-ac37-5e0e3a9a1e0f_chữ ký ủa ly.png",
+      "PackagePath": "staticwebassets\\image\\38ed2c6e-b69e-4e6c-ac37-5e0e3a9a1e0f_chữ ký ủa ly.png"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\image\\45aab2a8-1466-41bd-96a4-296ac4678f56_Screenshot 2023-12-06 145239.png",
+      "PackagePath": "staticwebassets\\image\\45aab2a8-1466-41bd-96a4-296ac4678f56_Screenshot 2023-12-06 145239.png"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\image\\612acbad-58f5-4967-ab4c-8f8ea7f0dc9c_Screenshot 2023-12-06 145239.png",
+      "PackagePath": "staticwebassets\\image\\612acbad-58f5-4967-ab4c-8f8ea7f0dc9c_Screenshot 2023-12-06 145239.png"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\image\\71473e77-9701-4371-b6ef-a4ccb4c151cd_Screenshot 2024-05-24 230923.png",
+      "PackagePath": "staticwebassets\\image\\71473e77-9701-4371-b6ef-a4ccb4c151cd_Screenshot 2024-05-24 230923.png"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\image\\7ba5fef7-b343-460d-b2f8-2e29d8d26f0f_Screenshot 2023-12-05 005158.png",
+      "PackagePath": "staticwebassets\\image\\7ba5fef7-b343-460d-b2f8-2e29d8d26f0f_Screenshot 2023-12-05 005158.png"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\image\\8a84eac8-6f45-44aa-b12f-d79d7e2cd1a0_chữ ký ủa ly.png",
+      "PackagePath": "staticwebassets\\image\\8a84eac8-6f45-44aa-b12f-d79d7e2cd1a0_chữ ký ủa ly.png"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\image\\9753d648-c226-4c16-bad8-9a5a029cab21_chữ ký ủa ly.png",
+      "PackagePath": "staticwebassets\\image\\9753d648-c226-4c16-bad8-9a5a029cab21_chữ ký ủa ly.png"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\image\\Dai-Viet-Su-Ky-Toan-Thu1.bmp",
+      "PackagePath": "staticwebassets\\image\\Dai-Viet-Su-Ky-Toan-Thu1.bmp"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\image\\a4a9d657-3b6c-4903-95da-9b37f173f6fb_Screenshot 2024-05-24 230923.png",
+      "PackagePath": "staticwebassets\\image\\a4a9d657-3b6c-4903-95da-9b37f173f6fb_Screenshot 2024-05-24 230923.png"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\image\\d9af8f8d-3284-435a-825d-dc07b3405eb4_Screenshot 2023-09-19 084008.png",
+      "PackagePath": "staticwebassets\\image\\d9af8f8d-3284-435a-825d-dc07b3405eb4_Screenshot 2023-09-19 084008.png"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\image\\fb916dc1-0ac4-4a06-99f6-87296e8c7797_Screenshot 2024-01-08 145807.png",
+      "PackagePath": "staticwebassets\\image\\fb916dc1-0ac4-4a06-99f6-87296e8c7797_Screenshot 2024-01-08 145807.png"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\image\\gallery1.jpg",
+      "PackagePath": "staticwebassets\\image\\gallery1.jpg"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\image\\ly-nam-de.jpg",
+      "PackagePath": "staticwebassets\\image\\ly-nam-de.jpg"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\js\\alert.js",
+      "PackagePath": "staticwebassets\\js\\alert.js"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\js\\contact.js",
+      "PackagePath": "staticwebassets\\js\\contact.js"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\js\\gmaps.js",
+      "PackagePath": "staticwebassets\\js\\gmaps.js"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\js\\html5shiv.js",
+      "PackagePath": "staticwebassets\\js\\html5shiv.js"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\js\\jquery.prettyPhoto.js",
+      "PackagePath": "staticwebassets\\js\\jquery.prettyPhoto.js"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\js\\price-range.js",
+      "PackagePath": "staticwebassets\\js\\price-range.js"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\CodeThue\\c#\\Course_History\\Course_History\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Course_History.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Course_History.props",
+      "PackagePath": "build\\Course_History.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Course_History.props",
+      "PackagePath": "buildMultiTargeting\\Course_History.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Course_History.props",
+      "PackagePath": "buildTransitive\\Course_History.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

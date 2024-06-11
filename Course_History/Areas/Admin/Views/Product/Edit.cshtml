@@ -1,0 +1,64 @@
+﻿@model ProductModel
+
+@{
+    ViewData["title"] = "Sửa sản phẩm";
+}
+
+<h4>Sửa sản phẩm</h4>
+<form asp-action="Edit" enctype="multipart/form-data">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="form-group">
+        <label>Tên</label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger" />
+    </div>
+    <div class="form-group">
+        <label>Giá</label>
+        <input asp-for="Price" class="form-control" />
+        <span asp-validation-for="Price" class="text-danger" />
+    </div>
+
+    <div class="form-group">
+        <label>Số lượng</label>
+        <input asp-for="Quantity" class="form-control" />
+        <span asp-validation-for="Quantity" class="text-danger" />
+    </div>
+
+    <div class="form-group">
+        <label>Ảnh</label>
+        <input asp-for="ImageUpload" class="form-control" />
+        <span asp-validation-for="ImageUpload" class="text-danger" />
+        <img src="~/image/@Model.Image" width="120" height="100"/>
+    </div>
+    <div class="form-group">
+        <label>Danh mục</label>
+        <select asp-for="Title" class="form-control">
+            <option>---Chọn danh mục---</option>
+            <option value="1">Địa lý</option>
+            <option value="2">Lịch sử</option>
+        </select>
+        <span asp-validation-for="Title" class="text-danger" />
+    </div>
+    <div class="form-group">
+        <label>Thể loại</label>
+        <select asp-for="CategoryId" class="form-control" asp-items="ViewBag.Category">
+            <option>---Chọn thể loại---</option>
+        </select>
+        <span asp-validation-for="CategoryId" class="text-danger" />
+    </div>
+
+    <div class="form-group">
+
+        <button class="btn btn-outline-success">Sửa</button>
+    </div>
+
+</form>
+
+<a asp-action="Index">Quay lại danh sách sản phẩm</a>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+

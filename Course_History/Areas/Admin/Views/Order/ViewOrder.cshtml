@@ -1,0 +1,31 @@
+﻿@model IEnumerable<OrderDetail>
+
+<div>
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <th scope="row">Id</th>
+                <th scope="col">Mã hóa đơn</th>
+                <th scope="col">Người dùng</th>
+                <th scope="col">Tên sản phẩm</th>
+                <th scope="col">Giá tiền</th>
+                <th scope="col">Số lượng</th>
+             
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <th scope="row">@item.Id</th>
+                    <td>@item.OrderCode</td>
+                    <td>@item.UserName</td>
+                    <td>@item.Product.Name</td>
+                    <td>@item.Price</td>
+                    <td>@item.Quantity</td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
